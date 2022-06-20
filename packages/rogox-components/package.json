@@ -1,5 +1,5 @@
 {
-  "name": "@eintech/rogox-components",
+  "name": "rogox-components",
   "version": "1.0.1",
   "description": "A component library prototype for Rogo X",
   "main": "lib/index.js",
@@ -46,5 +46,5 @@
     "vee-validate": "^4.5.11",
     "vue-i18n": "^8.27.1"
   },
-  "gitHead": "6843bd229790dfdcc5cc9a998febc48899fb45f4"
+  "gitHead": "322d799652ee2f13f799ad785f75268753d29587"
 }
