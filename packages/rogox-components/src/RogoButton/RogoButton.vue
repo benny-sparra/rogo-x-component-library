@@ -1,7 +1,3 @@
-<template>
-  <button class="btn btn-primary" v-on:click="clickHandler">{{ text }}</button>
-</template>
-
 <script lang="ts">
 import { defineComponent } from "vue";
 
@@ -16,6 +12,10 @@ export default defineComponent({
   }
 });
 </script>
+
+<template>
+  <button class="btn btn-primary" v-on:click="clickHandler">{{ text }}</button>
+</template>
 
 <!-- <style scoped>
 button {
